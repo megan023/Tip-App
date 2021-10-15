@@ -12,26 +12,26 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can enter in a bill amount (total amount to tip on)
-* [ ] User can enter a tip percentage (what % the user wants to tip).
-* [ ] The tip and total amount are updated immediately when any of the inputs
+* [x] User can enter in a bill amount (total amount to tip on)
+* [x] User can enter a tip percentage (what % the user wants to tip).
+* [x] The tip and total amount are updated immediately when any of the inputs
   changes.
-  * [ ] The user sees a label or color update based on the tip amount. 
+  * [x] The user sees a label or color update based on the tip amount. 
 
   The following **extensions** are implemented:
 
-  * [ ] Custom colors palette selected
-  * [ ] List anything else that you did to improve the app functionality or
-    design!
+  * [x] Custom colors palette selected
+  * [x] Split the total bill between a group 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video
+<img src='http://i.imgur.com/azral1n.gif' title='Video
 Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+Recorded with QuickTimePlayer and converted to GIF with [EZGIF.COM](https://ezgif.com/).
 
 ## Notes
 
@@ -39,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Megan Liu
 
         Licensed under the Apache License, Version 2.0 (the "License");
             you may not use this file except in compliance with the License.
